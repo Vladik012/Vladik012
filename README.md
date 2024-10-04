@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# I am a Vladyslav. I`m start programming on a python, java script, and coding web site
+
 <!--
 **Vladik012/Vladik012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
