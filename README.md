@@ -2,7 +2,7 @@
 
 # I am a Vladyslav. I`m start programming on a python, java script, and coding web site
 <table>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladik012&layout=compact&show_icons=true&theme=dark)       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladik012&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladik012&layout=compact&show_icons=true&theme=dark)       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladik012&show_icons=true&theme=dark)
 </table>
 <!--
 **Vladik012/Vladik012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
