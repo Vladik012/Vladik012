@@ -1,7 +1,7 @@
 ## Hi
 
 # I am a Vladyslav. I`m start programming on a python, java script, and coding web site
-<table>
+<!--<table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Vladik012&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
