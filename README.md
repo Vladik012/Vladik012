@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 # I am a Vladyslav. I`m start programming on a python, java script, and coding web site
 <table>
