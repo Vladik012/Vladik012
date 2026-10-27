@@ -1,6 +1,6 @@
-## Hi
+## Heyo
 
-# I am a Vladyslav. I`m start programming on a python, java script, and coding web site
+# I am a Vladyslav. I`m start programming on a python, java script, and coding websites
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
