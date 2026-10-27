@@ -13,6 +13,10 @@
   
 </table>
 
+- 🌱 I’m currently learning how to develop plugins for GTA V servers
+- 💬 I'm good at creating Discord bots in Python
+- 🔭 I’m currently working in C and configuring Minecraft servers
+
 
 
 <!--
